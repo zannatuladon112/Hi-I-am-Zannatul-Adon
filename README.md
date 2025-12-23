@@ -16,7 +16,9 @@ emp3r0rr
 ⚡ Fun fact Sometimes I get confused between language syntaxes.
 
 Connect with me:
-Mustakim Adon
+ https://www.linkedin.com/in/mustakim-adon-33b627270/
+ https://www.facebook.com/mustakim.adon.7/
+
 
 Languages and Tools:
 bootstrap cplusplus csharp css3 dotnet git html5 javascript mongodb mssql mysql nodejs pandas php postman python react selenium tailwind
