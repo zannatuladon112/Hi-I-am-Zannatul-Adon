@@ -1,9 +1,9 @@
 # Hi-I-am-Zannatul-Adon
 Hi 👋, I am zannatul Adon
-I have completed my final semester in Computer Science and Engineering at AIUB, with a strong passion for technology and innovation. Skilled in JavaScript and C#, I specialize in building full-stack applications using the .NET framework and n-tier architecture. I have experience with MySQL, MS SQL, APIs, Entity Framework, and frontend tools like Bootstrap and Tailwind CSS. I also have knowledge of Selenium, Postman, Python, and PHP, continuously learning to design efficient software solutions
-emp3r0rr
+I have completed my final semester in Computer Science and Engineering at AIUB, with a strong passion for technology and innovation. Skilled in JavaScript and C#, I specialize in building full-stack applications using the .NET framework and n-tier architecture. I have experience with MySQL, MS SQL, APIs, Entity Framework, and frontend tools like Bootstrap and Tailwind CSS. I also have knowledge of Selenium, Postman, Python, and PHP, continuously learning to design efficient software solutions.
 
-emp3r0rr
+
+
 
 🔭 I’m currently working on Hospital management System
 
